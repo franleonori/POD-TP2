@@ -1,0 +1,794 @@
+[
+  {
+    "codigo": "SR01-P01-01",
+    "piso": "1",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-05-08"
+  },
+  {
+    "codigo": "SR01-P01-02",
+    "piso": "1",
+    "estado": "ocupado",
+    "equipo": "PC-Administracion",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-09-03"
+  },
+  {
+    "codigo": "SR01-P01-03",
+    "piso": "1",
+    "estado": "ocupado",
+    "equipo": "PC-Administracion",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-02-07"
+  },
+  {
+    "codigo": "SR01-P01-04",
+    "piso": "1",
+    "estado": "ocupado",
+    "equipo": "Camara-IP",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-09-07"
+  },
+  {
+    "codigo": "SR01-P01-05",
+    "piso": "1",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-09-14"
+  },
+  {
+    "codigo": "SR01-P01-06",
+    "piso": "1",
+    "estado": "ocupado",
+    "equipo": "Camara-IP",
+    "cable": "Cat6",
+    "ultima_revision": "2026-01-25"
+  },
+  {
+    "codigo": "SR01-P01-07",
+    "piso": "1",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-07-11"
+  },
+  {
+    "codigo": "SR01-P01-08",
+    "piso": "1",
+    "estado": "ocupado",
+    "equipo": "Impresora",
+    "cable": "Cat6",
+    "ultima_revision": "2026-02-03"
+  },
+  {
+    "codigo": "SR01-P01-09",
+    "piso": "1",
+    "estado": "ocupado",
+    "equipo": "Telefono-IP",
+    "cable": "Cat6",
+    "ultima_revision": "2026-10-09"
+  },
+  {
+    "codigo": "SR01-P01-10",
+    "piso": "1",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-08-18"
+  },
+  {
+    "codigo": "SR01-P01-11",
+    "piso": "1",
+    "estado": "ocupado",
+    "equipo": "",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-09-10"
+  },
+  {
+    "codigo": "SR01-P01-12",
+    "piso": "1",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-06-19"
+  },
+  {
+    "codigo": "SR01-P01-13",
+    "piso": "1",
+    "estado": "ocupado",
+    "equipo": "PC-Administracion",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-04-25"
+  },
+  {
+    "codigo": "SR01-P01-14",
+    "piso": "1",
+    "estado": "ocupado",
+    "equipo": "PC-Administracion",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-02-13"
+  },
+  {
+    "codigo": "SR01-P01-15",
+    "piso": "1",
+    "estado": "ocupado",
+    "equipo": "Telefono-IP",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-06-12"
+  },
+  {
+    "codigo": "SR01-P01-16",
+    "piso": "1",
+    "estado": "ocupado",
+    "equipo": "Telefono-IP",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-02-20"
+  },
+  {
+    "codigo": "SR01-P01-17",
+    "piso": "1",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-04-06"
+  },
+  {
+    "codigo": "SR01-P01-18",
+    "piso": "1",
+    "estado": "ocupado",
+    "equipo": "Telefono-IP",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-09-08"
+  },
+  {
+    "codigo": "SR01-P01-19",
+    "piso": "1",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-04-27"
+  },
+  {
+    "codigo": "SR01-P01-20",
+    "piso": "1",
+    "estado": "ocupado",
+    "equipo": "Telefono-IP",
+    "cable": "Cat6",
+    "ultima_revision": "2026-05-03"
+  },
+  {
+    "codigo": "SR01-P01-21",
+    "piso": "1",
+    "estado": "ocupado",
+    "equipo": "Camara-IP",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-06-07"
+  },
+  {
+    "codigo": "SR01-P01-22",
+    "piso": "1",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat6",
+    "ultima_revision": "2026-08-05"
+  },
+  {
+    "codigo": "SR01-P01-23",
+    "piso": "1",
+    "estado": "ocupado",
+    "equipo": "Impresora",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-09-18"
+  },
+  {
+    "codigo": "SR01-P01-24",
+    "piso": "1",
+    "estado": "ocupado",
+    "equipo": "Camara-IP",
+    "cable": "Cat6",
+    "ultima_revision": "2026-10-13"
+  },
+  {
+    "codigo": "SR02-P02-01",
+    "piso": "2",
+    "estado": "ocupado",
+    "equipo": "Impresora",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-08-03"
+  },
+  {
+    "codigo": "SR02-P02-02",
+    "piso": "2",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-03-21"
+  },
+  {
+    "codigo": "SR02-P02-03",
+    "piso": "2",
+    "estado": "ocupado",
+    "equipo": "Access-Point",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-02-13"
+  },
+  {
+    "codigo": "SR02-P02-04",
+    "piso": "2",
+    "estado": "ocupado",
+    "equipo": "Access-Point",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-05-18"
+  },
+  {
+    "codigo": "SR02-P02-05",
+    "piso": "2",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-02-22"
+  },
+  {
+    "codigo": "SR02-P02-06",
+    "piso": "2",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat6",
+    "ultima_revision": "2026-06-04"
+  },
+  {
+    "codigo": "SR02-P02-07",
+    "piso": "4",
+    "estado": "ocupado",
+    "equipo": "Impresora",
+    "cable": "Cat6",
+    "ultima_revision": "2026-01-24"
+  },
+  {
+    "codigo": "SR02-P02-08",
+    "piso": "2",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat6",
+    "ultima_revision": "2026-09-25"
+  },
+  {
+    "codigo": "SR02-P02-09",
+    "piso": "2",
+    "estado": "ocupado",
+    "equipo": "PC-Administracion",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-05-27"
+  },
+  {
+    "codigo": "SR02-P02-10",
+    "piso": "2",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-04-05"
+  },
+  {
+    "codigo": "SR02-P02-11",
+    "piso": "2",
+    "estado": "ocupado",
+    "equipo": "Impresora",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-09-01"
+  },
+  {
+    "codigo": "SR02-P02-12",
+    "piso": "2",
+    "estado": "ocupado",
+    "equipo": "Access-Point",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-02-12"
+  },
+  {
+    "codigo": "SR02-P02-13",
+    "piso": "2",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat6",
+    "ultima_revision": "2026-04-02"
+  },
+  {
+    "codigo": "SR02-P02-14",
+    "piso": "2",
+    "estado": "ocupado",
+    "equipo": "Camara-IP",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-02-24"
+  },
+  {
+    "codigo": "SR02-P02-15",
+    "piso": "2",
+    "estado": "ocupado",
+    "equipo": "PC-Administracion",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-03-05"
+  },
+  {
+    "codigo": "SR02-P02-16",
+    "piso": "2",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-03-09"
+  },
+  {
+    "codigo": "SR02-P02-17",
+    "piso": "2",
+    "estado": "ocupado",
+    "equipo": "Camara-IP",
+    "cable": "Cat6",
+    "ultima_revision": "2026-04-18"
+  },
+  {
+    "codigo": "SR02-P02-18",
+    "piso": "2",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-04-23"
+  },
+  {
+    "codigo": "SR02-P02-19",
+    "piso": "2",
+    "estado": "ocupado",
+    "equipo": "Telefono-IP",
+    "cable": "Cat6",
+    "ultima_revision": "2026-09-15"
+  },
+  {
+    "codigo": "SR02-P02-20",
+    "piso": "2",
+    "estado": "ocupado",
+    "equipo": "Impresora",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-06-01"
+  },
+  {
+    "codigo": "SR02-P02-21",
+    "piso": "2",
+    "estado": "ocupado",
+    "equipo": "Impresora",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-04-01"
+  },
+  {
+    "codigo": "SR02-P02-22",
+    "piso": "2",
+    "estado": "ocupado",
+    "equipo": "PC-Administracion",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-02-02"
+  },
+  {
+    "codigo": "SR02-P02-23",
+    "piso": "2",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-09-08"
+  },
+  {
+    "codigo": "SR02-P02-24",
+    "piso": "2",
+    "estado": "ocupado",
+    "equipo": "Access-Point",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-09-05"
+  },
+  {
+    "codigo": "SR03-P03-01",
+    "piso": "3",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-10-16"
+  },
+  {
+    "codigo": "SR03-P03-02",
+    "piso": "3",
+    "estado": "ocupado",
+    "equipo": "Access-Point",
+    "cable": "Cat6",
+    "ultima_revision": "2026-04-04"
+  },
+  {
+    "codigo": "SR03-P03-03",
+    "piso": "3",
+    "estado": "ocupado",
+    "equipo": "Access-Point",
+    "cable": "Cat6",
+    "ultima_revision": "2026-02-30"
+  },
+  {
+    "codigo": "SR03-P03-04",
+    "piso": "3",
+    "estado": "ocupado",
+    "equipo": "PC-Administracion",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-02-02"
+  },
+  {
+    "codigo": "SR03-P03-05",
+    "piso": "3",
+    "estado": "ocupado",
+    "equipo": "Telefono-IP",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-04-07"
+  },
+  {
+    "codigo": "SR03-P03-06",
+    "piso": "3",
+    "estado": "ocupado",
+    "equipo": "Access-Point",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-07-06"
+  },
+  {
+    "codigo": "SR03-P03-07",
+    "piso": "3",
+    "estado": "ocupado",
+    "equipo": "Impresora",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-08-26"
+  },
+  {
+    "codigo": "SR03-P03-08",
+    "piso": "3",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-02-02"
+  },
+  {
+    "codigo": "SR03-P03-09",
+    "piso": "3",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-01-03"
+  },
+  {
+    "codigo": "SR03-P03-10",
+    "piso": "3",
+    "estado": "danado",
+    "equipo": "",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-03-14"
+  },
+  {
+    "codigo": "SR03-P03-11",
+    "piso": "3",
+    "estado": "ocupado",
+    "equipo": "Impresora",
+    "cable": "Cat6",
+    "ultima_revision": "2026-01-06"
+  },
+  {
+    "codigo": "SR03-P03-12",
+    "piso": "3",
+    "estado": "ocupado",
+    "equipo": "Access-Point",
+    "cable": "Cat6",
+    "ultima_revision": "2026-08-10"
+  },
+  {
+    "codigo": "SR03-P03-13",
+    "piso": "3",
+    "estado": "ocupado",
+    "equipo": "Camara-IP",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-08-05"
+  },
+  {
+    "codigo": "SR03-P03-14",
+    "piso": "3",
+    "estado": "ocupado",
+    "equipo": "Impresora",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-10-24"
+  },
+  {
+    "codigo": "SR03-P03-15",
+    "piso": "3",
+    "estado": "ocupado",
+    "equipo": "Telefono-IP",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-01-19"
+  },
+  {
+    "codigo": "SR03-P03-16",
+    "piso": "3",
+    "estado": "ocupado",
+    "equipo": "Camara-IP",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-01-17"
+  },
+  {
+    "codigo": "SR03-P03-17",
+    "piso": "3",
+    "estado": "ocupado",
+    "equipo": "Impresora",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-10-03"
+  },
+  {
+    "codigo": "SR03-P03-18",
+    "piso": "3",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-07-04"
+  },
+  {
+    "codigo": "SR03-P03-19",
+    "piso": "3",
+    "estado": "danado",
+    "equipo": "",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-04-19"
+  },
+  {
+    "codigo": "SR03-P03-20",
+    "piso": "3",
+    "estado": "ocupado",
+    "equipo": "Camara-IP",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-07-22"
+  },
+  {
+    "codigo": "SR03-P03-21",
+    "piso": "3",
+    "estado": "ocupado",
+    "equipo": "Camara-IP",
+    "cable": "Cat6",
+    "ultima_revision": "2026-05-07"
+  },
+  {
+    "codigo": "SR03-P03-22",
+    "piso": "3",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat6",
+    "ultima_revision": "2026-04-09"
+  },
+  {
+    "codigo": "SR03-P03-23",
+    "piso": "3",
+    "estado": "ocupado",
+    "equipo": "Telefono-IP",
+    "cable": "",
+    "ultima_revision": "2026-06-25"
+  },
+  {
+    "codigo": "SR03-P03-24",
+    "piso": "3",
+    "estado": "danado",
+    "equipo": "",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-08-20"
+  },
+  {
+    "codigo": "SR04-P04-01",
+    "piso": "4",
+    "estado": "danado",
+    "equipo": "",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-02-18"
+  },
+  {
+    "codigo": "SR04-P04-02",
+    "piso": "4",
+    "estado": "ocupado",
+    "equipo": "Telefono-IP",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-06-03"
+  },
+  {
+    "codigo": "SR04-P04-03",
+    "piso": "4",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat6",
+    "ultima_revision": "2026-05-06"
+  },
+  {
+    "codigo": "SR04-P04-04",
+    "piso": "4",
+    "estado": "ocupado",
+    "equipo": "Camara-IP",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-05-20"
+  },
+  {
+    "codigo": "SR04-P04-05",
+    "piso": "4",
+    "estado": "danado",
+    "equipo": "",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-09-01"
+  },
+  {
+    "codigo": "SR04-P04-06",
+    "piso": "4",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-05-22"
+  },
+  {
+    "codigo": "SR04-P04-07",
+    "piso": "4",
+    "estado": "ocupado",
+    "equipo": "Impresora",
+    "cable": "Cat6",
+    "ultima_revision": "2026-02-04"
+  },
+  {
+    "codigo": "SR04-P04-08",
+    "piso": "4",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-05-10"
+  },
+  {
+    "codigo": "SR04-P04-09",
+    "piso": "4",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-06-07"
+  },
+  {
+    "codigo": "SR04-P04-10",
+    "piso": "4",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat6",
+    "ultima_revision": "2026-09-16"
+  },
+  {
+    "codigo": "SR04-P04-11",
+    "piso": "4",
+    "estado": "ocupado",
+    "equipo": "PC-Administracion",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-07-27"
+  },
+  {
+    "codigo": "SR04-P04-12",
+    "piso": "4",
+    "estado": "ocupado",
+    "equipo": "PC-Administracion",
+    "cable": "Cat6",
+    "ultima_revision": "2026-03-21"
+  },
+  {
+    "codigo": "SR04-P04-13",
+    "piso": "4",
+    "estado": "danado",
+    "equipo": "",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-08-18"
+  },
+  {
+    "codigo": "SR04-P04-14",
+    "piso": "4",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-01-04"
+  },
+  {
+    "codigo": "SR04-P04-15",
+    "piso": "4",
+    "estado": "ocupado",
+    "equipo": "Impresora",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-01-27"
+  },
+  {
+    "codigo": "SR04-P04-16",
+    "piso": "4",
+    "estado": "ocupado",
+    "equipo": "Camara-IP",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-07-05"
+  },
+  {
+    "codigo": "SR04-P04-17",
+    "piso": "4",
+    "estado": "ocupado",
+    "equipo": "Telefono-IP",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-06-07"
+  },
+  {
+    "codigo": "SR04-P04-18",
+    "piso": "4",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat6a",
+    "ultima_revision": "2026-02-12"
+  },
+  {
+    "codigo": "SR04-P04-19",
+    "piso": "4",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat6",
+    "ultima_revision": "2026-10-24"
+  },
+  {
+    "codigo": "SR04-P04-20",
+    "piso": "4",
+    "estado": "ocupado",
+    "equipo": "Impresora",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-03-14"
+  },
+  {
+    "codigo": "SR04-P04-21",
+    "piso": "4",
+    "estado": "ocupado",
+    "equipo": "Telefono-IP",
+    "cable": "Cat6",
+    "ultima_revision": "2026-04-09"
+  },
+  {
+    "codigo": "SR04-P04-22",
+    "piso": "4",
+    "estado": "ocupado",
+    "equipo": "PC-Administracion",
+    "cable": "Cat6",
+    "ultima_revision": "2026-01-28"
+  },
+  {
+    "codigo": "SR04-P04-23",
+    "piso": "4",
+    "estado": "ocupado",
+    "equipo": "Impresora",
+    "cable": "Cat6",
+    "ultima_revision": "2026-06-10"
+  },
+  {
+    "codigo": "SR04-P04-24",
+    "piso": "4",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-04-01"
+  },
+  {
+    "codigo": "SR01-P01-01",
+    "piso": "1",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat5e",
+    "ultima_revision": "2026-05-08"
+  },
+  {
+    "codigo": "SR1-P1-5",
+    "piso": "1",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat6",
+    "ultima_revision": "2026-03-10"
+  },
+  {
+    "codigo": "SR01-P01-30",
+    "piso": "1",
+    "estado": "libre",
+    "equipo": "",
+    "cable": "Cat6",
+    "ultima_revision": "2026-03-11"
+  }
+]
