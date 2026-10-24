@@ -3,7 +3,7 @@
 - **Fuente:** datos simulados, generados con `src/generar_datos.py` (semilla fija 42).
 - **Responsable:** el autor del trabajo.
 - **Licencia:** uso libre; son datos sintéticos, sin información real ni sensible.
-- **Fecha de generación:** COMPLETAR con la fecha del día.
+- **Fecha de generación:** 2026-10-23
 - **Unidad de análisis:** cada fila es un puerto de un SR (switch de red).
 - **Tamaño:** 99 observaciones y 6 variables.
 - **Variables:**
